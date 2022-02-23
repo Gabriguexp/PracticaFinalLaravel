@@ -1,0 +1,23 @@
+.cost-1{
+    border:grey;
+}
+
+.cost-2{
+    border:green;
+}
+
+.cost-3{
+    border:blue;
+}
+
+.cost-4{
+    border:purple;
+}
+
+.cost-5{
+    border:yellow;
+}
+
+.hidden{
+    display:none;
+}
